@@ -13,5 +13,17 @@ alert(add(number1,number2));
 // subtraction of numbers
 let subtraction=function(number1, number2){
     return number1-number2;
-}
+};
 alert(subtraction(number1,number2));
+
+// multiplication
+let multiply=function(number1,number2){
+    return number1*number2;
+};
+alert(multiply(number1,number2));
+
+// divide
+let divide=function(number1, number2){
+ return number1/number2
+};
+alert(divide(number2, number1))

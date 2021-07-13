@@ -1,2 +1,2 @@
 # Calculator Project
-## developed by Joe Gakumo
+## developer: Joe Gakumo
